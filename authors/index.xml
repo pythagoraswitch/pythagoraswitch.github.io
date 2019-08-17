@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Kiwako Sakamoto</title>
+    <link>https://pythagoraswitch.github.io/authors/</link>
+      <atom:link href="https://pythagoraswitch.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Kiwako Sakamoto</copyright>
+    <image>
+      <url>https://pythagoraswitch.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://pythagoraswitch.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://pythagoraswitch.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pythagoraswitch.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a data scientist with experience in big data applications for the public sector, primarily in international development. I have a good imagination and instincts for the utility of data projects in the real world and for how to make things happen. I also work with artists.&lt;/p&gt;
+
+&lt;p&gt;I have experience managing research project that involves research grant proposal, field work, and writing paper with co-PIs in academic institutions and government counterparts while managing research assistants and interns.&lt;/p&gt;
+
+&lt;p&gt;I have a natural tendency to care about community development, and I&amp;rsquo;ve put a lot of time in my previous work to identify problems and come up with solutions for the organization as well as making sure community members feel included and encouraged to share with and learn from others.&lt;/p&gt;
+
+&lt;p&gt;My current research interests are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Algorithmic fairness from mechanism design point of view&lt;/li&gt;
+&lt;li&gt;Human interpretability of deep learning model&lt;/li&gt;
+&lt;li&gt;AI policy / responsible use of AI in practice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Previously I worked on:
+enormous Russian film/art, diplomacy, remote-sensing, development economics, data science, particle astrophysics, complex system.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Kiwako Sakamoto</title>
+    <link>https://pythagoraswitch.github.io/tags/</link>
+      <atom:link href="https://pythagoraswitch.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Kiwako Sakamoto</copyright><lastBuildDate>Thu, 15 Aug 2019 12:44:21 -0700</lastBuildDate>
+    <image>
+      <url>https://pythagoraswitch.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://pythagoraswitch.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>Generative Art</title>
+      <link>https://pythagoraswitch.github.io/tags/generative-art/</link>
+      <pubDate>Thu, 15 Aug 2019 12:44:21 -0700</pubDate>
+      <guid>https://pythagoraswitch.github.io/tags/generative-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound Art</title>
+      <link>https://pythagoraswitch.github.io/tags/sound-art/</link>
+      <pubDate>Thu, 15 Aug 2019 12:44:21 -0700</pubDate>
+      <guid>https://pythagoraswitch.github.io/tags/sound-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://pythagoraswitch.github.io/tags/vr/</link>
+      <pubDate>Thu, 15 Aug 2019 12:44:21 -0700</pubDate>
+      <guid>https://pythagoraswitch.github.io/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/project/monastery/</loc>
+    <lastmod>2019-08-15T12:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/project/dau/</loc>
+    <lastmod>2019-08-15T15:49:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/project/world_bank/</loc>
+    <lastmod>2019-08-16T00:42:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/</loc>
+    <lastmod>2019-08-16T00:42:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/project/</loc>
+    <lastmod>2019-08-16T00:42:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/tags/generative-art/</loc>
+    <lastmod>2019-08-15T12:44:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/tags/sound-art/</loc>
+    <lastmod>2019-08-15T12:44:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/tags/</loc>
+    <lastmod>2019-08-15T12:44:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/tags/vr/</loc>
+    <lastmod>2019-08-15T12:44:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pythagoraswitch.github.io/talk/</loc>
+  </url>
+  
+</urlset>
